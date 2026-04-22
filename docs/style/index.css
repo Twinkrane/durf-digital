@@ -11,7 +11,7 @@
     --font-head: 'Roboto Condensed', sans-serif;
     --font-body: 'Roboto Slab', sans-serif;
     --font-title: 'No Continue', sans-serif;
-    --font-hand: 'Paradise Point', cursive;
+    --font-hand: 'Paradise Point';
 
     --color-light-gray: #ccc;
     --color-pencil-gray: #020000;
@@ -574,7 +574,7 @@ main {
     
                         & > textarea {
                             flex: 1;
-                            font-size: 17px;
+                            font-size: 20px;
                             padding: 4px 0;
                             resize: none;
                             border: none;
