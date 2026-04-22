@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&family=Roboto+Slab:wght@200;400;700&family=Shadows+Into+Light&display=swap');
 @font-face {
-    font-family: 'No Continue';
+    font-family: 'Paradise Point';
     src: url('../font/ParadisePoint-Bold.woff2') format('woff2'),
          url('../font/ParadisePoint-Bold.woff') format('woff');
     font-weight: normal;
@@ -11,10 +11,10 @@
     --font-head: 'Roboto Condensed', sans-serif;
     --font-body: 'Roboto Slab', sans-serif;
     --font-title: 'No Continue', sans-serif;
-    --font-hand: 'Shadows Into Light', cursive;
+    --font-hand: 'Paradise Point', cursive;
 
     --color-light-gray: #ccc;
-    --color-pencil-gray: #555;
+    --color-pencil-gray: #020000;
 
     --nav-width: 300px;
     --menu-btn-width: 70px;
